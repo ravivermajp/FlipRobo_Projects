@@ -1,0 +1,31 @@
+Ans 1.) C
+
+Ans 2.) D
+
+Ans 3.) C
+
+Ans 4.) A
+
+Ans 5.) C
+
+Ans 6.) B
+
+Ans 7.) B
+
+Ans 8.) D
+
+Ans 9.) C,D
+
+Ans 10.) A, D
+
+Ans 11.) Too far away points are called outliers because they lie outside the range in which we expect them. which differs significantly from other observations. In IQR a dataset is described by its 5 points they are minimum, first quartile, median, third quartile and highest value of the dataset. IOR formula is Q3-Q1.
+
+Inter Quartile Range is the length of the box in box-and-whisker. In this we divide the data into four groups of equal size to plot the shape of data
+
+Ans 12.) The primary difference between bagging and boosting algorithms is in bagging equal weight is given to all model and in boosting weights a model contribution by its performance.
+
+Ans 13.) adjusted R2 is the new version of R2 where it increases only when any independent value is significent and it affects on dependent variable. it can be calculated by using this formula in python : adj_r2 = 1-(1-r.squared)*((n-1)/(n-p-1))
+
+Ans 14.) standardization transforms data to have a mean of 0 & standard deviation of 1 and normalization means to scale a variable to have a values between 0 & 1.
+
+Ans 15.) Cross-validation is a technique in which we evaluate Machine Learning models. in Cross vaidation we train many Machine Learning models on subsets of the input data and evaluating them on the complementary subset of data. Advantage of Cross Validation is it doesnot depend on the number of folds. and the disadvantage is we might miss some observations where we have selected some observations more than once.
